@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie Próbne", "SPOJ\Zadanie Próbne.csproj", "{67CF7DE7-F403-486A-B589-E5FC3D32F75A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proste dodawanie", "Proste dodawanie\Proste dodawanie.csproj", "{EB3C32D9-2259-4861-A2B2-9FFDE3A39E4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proste dodawanie", "Proste dodawanie\Proste dodawanie.csproj", "{EB3C32D9-2259-4861-A2B2-9FFDE3A39E4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liczby Pierwsze", "Liczby Pierwsze\Liczby Pierwsze.csproj", "{38BA1F45-30A4-4D05-95DE-A7EFFB7634AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liczby Pierwsze", "Liczby Pierwsze\Liczby Pierwsze.csproj", "{38BA1F45-30A4-4D05-95DE-A7EFFB7634AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prędkość Średnia", "Prędkość Średnia\Prędkość Średnia.csproj", "{1D86366F-72C8-4531-8E77-D440F76936F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prędkość Średnia", "Prędkość Średnia\Prędkość Średnia.csproj", "{1D86366F-72C8-4531-8E77-D440F76936F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dwie cyfry silni", "Dwie cyfry silni\Dwie cyfry silni.csproj", "{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67CF7DE7-F403-486A-B589-E5FC3D32F75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67CF7DE7-F403-486A-B589-E5FC3D32F75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67CF7DE7-F403-486A-B589-E5FC3D32F75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67CF7DE7-F403-486A-B589-E5FC3D32F75A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EB3C32D9-2259-4861-A2B2-9FFDE3A39E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EB3C32D9-2259-4861-A2B2-9FFDE3A39E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3C32D9-2259-4861-A2B2-9FFDE3A39E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{1D86366F-72C8-4531-8E77-D440F76936F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D86366F-72C8-4531-8E77-D440F76936F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D86366F-72C8-4531-8E77-D440F76936F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
