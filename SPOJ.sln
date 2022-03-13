@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liczby Pierwsze", "Liczby P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prędkość Średnia", "Prędkość Średnia\Prędkość Średnia.csproj", "{1D86366F-72C8-4531-8E77-D440F76936F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dwie cyfry silni", "Dwie cyfry silni\Dwie cyfry silni.csproj", "{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dwie cyfry silni", "Dwie cyfry silni\Dwie cyfry silni.csproj", "{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWD", "NWD\NWD.csproj", "{FB24549A-8E46-4331-8B48-CFBDDB9F28F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC8B0EAF-4432-4BE0-A8E6-1247A6DE88A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB24549A-8E46-4331-8B48-CFBDDB9F28F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB24549A-8E46-4331-8B48-CFBDDB9F28F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB24549A-8E46-4331-8B48-CFBDDB9F28F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB24549A-8E46-4331-8B48-CFBDDB9F28F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
